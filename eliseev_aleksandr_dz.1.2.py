@@ -28,4 +28,3 @@ for i in range(len(cub_ls_17)):
     if total_cub % 7 == 0:
         total += cub_ls_17[i]
 print(total)
-j
